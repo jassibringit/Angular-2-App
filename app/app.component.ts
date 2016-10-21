@@ -14,9 +14,9 @@ import {User} from "./shared/models/user"
 export class AppComponent {
   message:  string = "Hello";
   users: User[] =  [
-  {  id:25, name: "chris", username:"jassi"},
-  { id:26, name:"nick", username:"nicktweets"},
-  {id:27, name:"holly", username:"hollyyyy"}
+  {  id:25, name: "Jaswinder", username:"jassi"},
+  { id:26, name:"Abirup", username:"abi12"},
+  {id:27, name:"paul", username:"paulina42"}
   ];
   activeUser:User;
 

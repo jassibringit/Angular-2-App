@@ -14,9 +14,9 @@ var AppComponent = (function () {
     function AppComponent() {
         this.message = "Hello";
         this.users = [
-            { id: 25, name: "chris", username: "jassi" },
-            { id: 26, name: "nick", username: "nicktweets" },
-            { id: 27, name: "holly", username: "hollyyyy" }
+            { id: 25, name: "Jaswinder", username: "jassi" },
+            { id: 26, name: "Abirup", username: "abi12" },
+            { id: 27, name: "paul", username: "paulina42" }
         ];
     }
     AppComponent.prototype.selectUser = function (user) {
